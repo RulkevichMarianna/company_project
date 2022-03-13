@@ -1,0 +1,19 @@
+{
+"user": {
+"login": "someLogin",
+"fullname": "someFullName"
+},
+"createdAt": "2022-04-10T12:30:14",
+"items": [
+{
+"id": "dfac37b1-a075-11ec-92be-18c04d957c7c",
+"name": "iPhone 12 Pro",
+"price": 1300
+},
+{
+"id": "44b61778-a076-11ec-9714-18c04d957c7c",
+"name": "Xiaomi Mi 11 Ultra",
+"price": 1175
+}
+]
+}
